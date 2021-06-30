@@ -1,0 +1,19 @@
+Company: This attribute refers to the company of the mobile phone for eg. Samsung, Apple, Google, Motorola and so on.
+
+Operating System: This attribute refers to the operating system of the mobile phone. An operating system (OS) is system software that
+                  manages hardware, software resources, and provides common services for programs for eg. Android, iOS.
+
+ROM: This attribute refers to the Read Only Memory of the mobile phone. The ROM of a mobile phone is its internal storage. The greater
+     the ROM of a device, the more data it can store. It is measured in gigabytes (GB).
+
+RAM: This attribute refers to the Random Access Memory of the mobile phone. The RAM of a mobile phone can be equated to the main memory
+     of a computer. The greater the RAM of a device, smoother is its functioning. It is measured in gigabytes (GB).
+
+Battery Capacity: This attribute refers to the capacity of the battery of a mobile phone. The greater the battery capacity of a mobile
+                  phone, the longer is its battery life. It is measured in milliamps-hours (mAH).
+
+Camera Resolution: This attribute refers to the resolution of the camera of the mobile phone (megapixel count). Having more pixels
+                   gives greater flexibility. One can print sharper pictures at larger sizes or crop and print small sections of
+		   pictures. It is measured in megapixels (MP).
+
+Price: This attribute refers to the price of the mobile phone. Usually, higher priced phones are of better quality.

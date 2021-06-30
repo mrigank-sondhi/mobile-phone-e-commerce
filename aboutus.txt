@@ -1,0 +1,5 @@
+This program aims to provide users with a simple and an easy-to-use e-commerce platform to view, search and filter mobile phones
+according to their needs and add them to a cart as well.Users can filter the mobile phones according to various attributes such as
+company, operating system, ROM, RAM, battery capacity, camera resolution and price. Apart from the functionality for users,this program
+provides functionality for administrators as well. The administrator functionality is password protected and can only be accessed by
+someone with the correct password. The Administrator can add, modify and delete mobiles in addition to all the user functionalities.
